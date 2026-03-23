@@ -2,7 +2,7 @@
 ### 🎓 Computer Science Student at El Shorouk Academy
 
 <p align="center">
-  <img src="https://stats.githubpkg.dev/api/languages?username=MohamedGhanem-CS&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGhanem-CS&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm a passionate developer currently building my foundation in **Software Engine
 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23512BD4.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IEEE](https://img.shields.io/badge/IEEE-%2300629B.svg?style=for-the-badge&logo=ieee&logoColor=white)
@@ -30,9 +30,9 @@ I'm a passionate developer currently building my foundation in **Software Engine
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ghanem-cs)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ghanem.cs@gmail.com)
 
 ---
 <p align="center"> 
-  "First, solve the problem. Then, write the code." – John Johnson
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
